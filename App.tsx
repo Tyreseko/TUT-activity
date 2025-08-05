@@ -38,7 +38,7 @@ export default function App() {
 <Text style={styles.extra}>I like football</Text>
 <Text style={styles.extra}>i Like gaming</Text>
 <Text style={styles.extra}>i love my family</Text>
-<Text style={styles.extra}>I study computer science</Text>
+<Text style={styles.extra}>My favourite food is Pizza</Text>
 <Text style={styles.extra}>I am 25 years old</Text>
 
 
