@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   card: {
     marginTop: 20,
     padding: 20,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: 'brown',
     borderRadius: 10
   },
   cardText: {
